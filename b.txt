@@ -1,0 +1,15 @@
+ Volume in drive C has no label.
+ Volume Serial Number is FEA5-C688
+
+ Directory of C:\tmp\Ant-test
+
+25/10/2016  06:30 AM    <DIR>          .
+25/10/2016  06:30 AM    <DIR>          ..
+25/10/2016  06:30 AM                 0 b.txt
+24/10/2016  11:03 PM    <DIR>          build
+09/10/2016  09:39 AM               627 build.xml
+24/10/2016  10:54 PM                13 index.html
+09/10/2016  09:39 AM                29 myManifest
+09/10/2016  09:47 AM    <DIR>          src
+               4 File(s)            669 bytes
+               4 Dir(s)  145,801,129,984 bytes free
